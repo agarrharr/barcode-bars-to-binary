@@ -1,0 +1,30 @@
+{
+  "name": "barcode-bars-to-binary",
+  "version": "1.0.0",
+  "description": "Repeat a string a certain number of times",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agarrharr/barcode-bars-to-binary.git"
+  },
+  "keywords": [
+    "barcode",
+    "binary"
+  ],
+  "author": "Adam Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agarrharr/barcode-bars-to-binary/issues"
+  },
+  "homepage": "https://github.com/agarrharr/barcode-bars-to-binary#readme",
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "xo": "^0.18.2"
+  },
+  "dependencies": {
+    "repeatrepeat": "^1.0.0"
+  }
+}
