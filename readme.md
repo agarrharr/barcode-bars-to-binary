@@ -19,7 +19,7 @@ barsToBinary('10132111231222132113211321111111321122212122123122211312111')
 
 ## API
 
-### barcode-bars-to-binary(bars)
+### barcodeBarsToBinary(bars)
 
 Returns barcode in binary
 
