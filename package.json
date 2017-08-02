@@ -1,7 +1,7 @@
 {
   "name": "barcode-bars-to-binary",
-  "version": "1.0.0",
-  "description": "Repeat a string a certain number of times",
+  "version": "1.0.1",
+  "description": "Convert barcode from width of bars and gaps to the binary value",
   "main": "index.js",
   "scripts": {
     "test": "xo && ava"
